@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm [Your Name]<br>I'm a passionate developer who loves building intuitive, user-centered solutions with a blend of creativity and tech. From crafting AI-powered platforms  to exploring cloud technologies with Oracle Cloud and Azure, I thrive on solving real-world problems through code.<br><br>💡 Current Focus:<br><br>🚀 Building AI-driven applications<br>☁️ Diving deeper into cloud infrastructures<br>Always excited to collaborate, innovate, and turn ideas into impactful projects. Let's build something amazing together! 💻✨<br><br>
+👋 Hey there! I'm Anmol Mahanty.<br>I'm a passionate developer who loves building intuitive, user-centered solutions with a blend of creativity and tech. From crafting AI-powered platforms  to exploring cloud technologies with Oracle Cloud and Azure, I thrive on solving real-world problems through code.<br><br>💡 Current Focus:<br><br>🚀 Building AI-driven applications<br>☁️ Diving deeper into cloud infrastructures<br>Always excited to collaborate, innovate, and turn ideas into impactful projects. Let's build something amazing together! 💻✨<br><br>
 
 
 ## 🌐 Socials:
